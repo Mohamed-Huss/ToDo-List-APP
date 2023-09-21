@@ -27,11 +27,7 @@
 - HTML5, CSS3 for structured content and advanced styling.
 - Vanilla JavaScript for dynamic functionalities.
 - Local Storage for retaining tasks.
-
-## 🔭 Upcoming Features:
-- Cloud sync to access your tasks across devices.
-- Reminder alarms for tasks.
-
+  
 ## 🌐 Live Demo:
 Unleash productivity now! Check out the live demo [here](https://mohamed-huss.github.io/ToDo-List-App/).
 
