@@ -1,6 +1,6 @@
 # To Do List App ✅📝
 
-🌟 **Experience the next-gen task manager!** Dive deep into a new age of task management with our To-Do List app. It doesn't just manage tasks; it redefines them. Organize, categorize, prioritize, and visualize in a style that suits you!
+🌟 **Experience the next-gen task manager!** Dive deep into a new age of task management with my To-Do List app. It doesn't just manage tasks; it redefines them. Organize, categorize, prioritize, and visualize in a style that suits you!
 
 ## 🚀 Main Features:
 
@@ -42,3 +42,4 @@ Feedback helps in continuous improvement. 📥 Feel free to report bugs, suggest
 
 Don't forget to star ⭐ the repo if you like what you see. 😄
 
+🚀 Developed with passion by [Mohamed Hussein](https://github.com/Mohamed-Huss). 
