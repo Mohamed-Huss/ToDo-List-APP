@@ -24,10 +24,14 @@
   - ☀️ **Light Mode**: Fresh and bright, like a new dawn.
   
 ## 🔧 Built With:
-- HTML5, CSS3 for structured content and advanced styling.
-- Vanilla JavaScript for dynamic functionalities.
-- Local Storage for retaining tasks.
-  
+- **Frontend**: 
+  - **HTML5 & CSS3**: Foundation of the structured content and design aesthetics.
+  - **Bootstrap**: Ensured a cohesive and adaptive interface across devices.
+  - **JavaScript**: Powered the dynamic and interactive elements of the platform.
+  - **Responsive Design**: Adopted Media Query and Bootstrap to guarantee a seamless experience on varied screen sizes.
+  - **UI & Design Tools**: 
+  - **FontAwesome**: Seamlessly woven in for rich, scalable icons, adding flair to the user interface.
+
 ## 🌐 Live Demo:
 Unleash productivity now! Check out the live demo [here](https://mohamed-huss.github.io/ToDo-List-App/).
 
