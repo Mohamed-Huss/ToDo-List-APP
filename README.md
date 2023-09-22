@@ -29,7 +29,7 @@
   - **Bootstrap**: Ensured a cohesive and adaptive interface across devices.
   - **JavaScript**: Powered the dynamic and interactive elements of the platform.
   - **Responsive Design**: Adopted Media Query and Bootstrap to guarantee a seamless experience on varied screen sizes.
-  - **UI & Design Tools**: 
+- **UI & Design Tools**: 
   - **FontAwesome**: Seamlessly woven in for rich, scalable icons, adding flair to the user interface.
 
 ## 🌐 Live Demo:
